@@ -1,4 +1,5 @@
-### Hi there 👋 \n Korea Aerospace University
+### Hi there 👋
+### Korea Aerospace University
 
 <!--
 **goliot/goliot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
