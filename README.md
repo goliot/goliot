@@ -4,7 +4,7 @@
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=goldadam&show_icons=true&theme={theme})](https://github.com/goldadam/github-readme-stats)
 -->
-[![github stats](https://github-readme-stats.vercel.app/api?username=goliot&show_icons=true&hide_border=true&theme=radical)](https://github.com/goliot)  
+[![github stats](https://github-readme-stats.vercel.app/api?username=goliot&show_icons=true&hide_border=true&theme=radical)](https://github.com/goliot)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goliot&layout=compact&theme=radical)](https://github.com/goliot)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cktnals0229)](https://solved.ac/cktnals0229/)
 
