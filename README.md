@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goliot&layout=compact&theme=radical)](https://github.com/goliot)  
 <div align="center">
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cktnals0229)](https://solved.ac/cktnals0229/)
-<div align="center">
+</div>
 
 <!--
 **goliot/goliot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
