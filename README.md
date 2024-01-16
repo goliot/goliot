@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🔭 I’m currently studying at Korea Aerospace University
+### Korea Aerospace University
   
 ### 🌱 I’m currently learning
 <div style="display: flex;">
