@@ -7,13 +7,6 @@
     <img src="https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
     <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 </div>
-
-
-
-
-<!--
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=goldadam&show_icons=true&theme={theme})](https://github.com/goldadam/github-readme-stats)
--->
   
 [![github stats](https://github-readme-stats.vercel.app/api?username=goliot&show_icons=true&hide_border=true&theme=radical)](https://github.com/goliot)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goliot&layout=compact&theme=radical)](https://github.com/goliot)  
