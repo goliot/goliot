@@ -9,9 +9,24 @@
 </div>
 
 ### Extra Info
-[![github stats](https://github-readme-stats.vercel.app/api?username=goliot&show_icons=true&hide_border=true&theme=radical)](https://github.com/goliot)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goliot&layout=compact&theme=radical)](https://github.com/goliot)  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cktnals0229)](https://solved.ac/cktnals0229/)
+<p align="center">
+  <a href="https://github.com/goliot">
+    <img src="https://github-readme-stats.vercel.app/api?username=goliot&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/goliot">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goliot&layout=compact&theme=radical" alt="Top Languages">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://solved.ac/cktnals0229/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cktnals0229" alt="Solved.ac Profile">
+  </a>
+</p>
+
 
 <!--
 **goliot/goliot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
