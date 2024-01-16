@@ -2,9 +2,12 @@
 ### Korea Aerospace University
 
 #### I Studied
-<img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white" style="display: inline;">
-<img src="https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white" style="display: inline;">
-<img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" style="display: inline;">
+<div style="display: flex;">
+    <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+    <img src="https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
+    <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+</div>
+
 
 
 
