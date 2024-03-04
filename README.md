@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Korea Aerospace University
   
-### 🌱 I’m currently learning
+### 🌱 I’m strong at
 <div style="display: flex;">
     <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white">
     <img src="https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
