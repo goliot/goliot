@@ -9,7 +9,7 @@
 </div>
 
 ### Extra Info
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/goliot">
     <img
       src="https://github-readme-stats.vercel.app/api?username=goliot&show_icons=true&hide_border=true&theme=radical&cache_seconds=86400&v=1"
@@ -25,7 +25,7 @@
       alt="Top Languages"
     />
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://solved.ac/cktnals0229/">
