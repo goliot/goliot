@@ -11,13 +11,19 @@
 ### Extra Info
 <p align="center">
   <a href="https://github.com/goliot">
-    <img src="https://github-readme-stats.vercel.app/api?username=goliot&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=goliot&show_icons=true&hide_border=true&theme=radical&cache_seconds=86400&v=1"
+      alt="GitHub Stats"
+    />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/goliot">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goliot&layout=compact&theme=radical" alt="Top Languages">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=goliot&layout=compact&theme=radical&cache_seconds=86400&v=1"
+      alt="Top Languages"
+    />
   </a>
 </p>
 
